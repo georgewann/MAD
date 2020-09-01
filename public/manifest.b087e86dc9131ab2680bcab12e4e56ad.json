@@ -1,0 +1,28 @@
+{
+  "icons": [
+    {
+      "src": "/public/icon_152x152.5c887cf5976509a3d2ac6f11efe54fa5.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/icon_512x512.31a2154bb3a831bf32713289d670ba54.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/icon_192x192.edf8fed6d18d98fe81d09e3680ea3fd6.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Music",
+  "short_name": "Music",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "A PWA Muisc Web Site",
+  "background_color": "#ffffff",
+  "theme_color": "#FEDD27",
+  "scope": "/"
+}
